@@ -1,3 +1,0 @@
-# Spark-streaming-batch
-
-Dependencies
